@@ -32,12 +32,9 @@ Developer passionate about low-level programming, backend systems and game devel
 
 ---
 
-## 🔥 Streak
-
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=github-dark&hide_border=true"/>
-
----
-
 ## 📈 Activity Graph
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=traodev&theme=github-dark&hide_border=true"/>
+
+---
+<img src="https://files.notnicolas.fr/badge.png">
