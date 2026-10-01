@@ -34,4 +34,4 @@ Developer passionate about low-level programming, backend systems and game devel
 
 ## 📈 Activity Graph
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=traodev&theme=github-dark&hide_border=true"/>
+<a href="https://wakatime.com"><img src="https://wakatime.com/share/@TRAO/0a3a01e9-3211-4487-8cb5-3a94f131a7da.png" /></a>
